@@ -1,7 +1,6 @@
 23 lorem ipsum 36
 hola
-asdasdas
-<<<<<<< HEAD
+asdasda
 uuuuuuuuuuuuuuuu
 fds
 aaa
